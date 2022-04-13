@@ -1,0 +1,6 @@
+Adaptive Computation	AC	Jorge Henriques
+Cognitive and Media Systems	CMS	Penousal Machado
+Evolutionary and Complex Systems	ECOS	Nuno Lourenço
+Information Systems	IS	Licinio Roque
+Communications and Telematics	LCT	Paulo Simoes
+Software and Systems Engineering	SSE	Henrique Madeira

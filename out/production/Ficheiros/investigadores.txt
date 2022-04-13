@@ -1,0 +1,72 @@
+Luis Guedes Ribeiro	luísribeiro@dei.uc.pt	Communications and Telematics	LCT	Complexity and Emergence in Societies of Agents	24/12/2021	Paulo Simoes
+Bernardete Ribeiro	bernardeteribeiro@dei.uc.pt	Adaptive Computation	AC	2.21	239501255
+Carlos M. Fonseca	carlosm.fonseca@dei.uc.pt	Adaptive Computation	AC	2.11	239894893
+Carlos Pereira	carlospereira@dei.uc.pt	Adaptive Computation	AC	2.5	239728230
+Catarina Silva	catarinasilva@dei.uc.pt	Adaptive Computation	AC	2.20	239561520
+Alberto Cardoso	albertocardoso@dei.uc.pt	Adaptive Computation	AC	2.24	239872362
+Jorge Henriques	jorgehenriques@dei.uc.pt	Adaptive Computation	AC	2.9	239691231
+Ana Boavida	anaboavida@dei.uc.pt	Cognitive and Media Systems	CMS	2.20	239803116
+Ana Cristina da Costa Oliveira Alves	anacristinadacostaoliveiraalves@dei.uc.pt	Cognitive and Media Systems	CMS	2.13	239277961
+Ana Maria Carvalho de Almeida	anamariacarvalhodealmeida@dei.uc.pt	Cognitive and Media Systems	CMS	2.14	239118666
+Anabela Jesus Gomes	anabelajesusgomes@dei.uc.pt	Cognitive and Media Systems	CMS	2.11	239713833
+Antonio Jose Mendes	antoniojosemendes@dei.uc.pt	Cognitive and Media Systems	CMS	2.16	239948110
+Penousal Machado	penousalmachado@dei.uc.pt	Cognitive and Media Systems	CMS	2.1	239872294
+Ernesto Costa	ernestocosta@dei.uc.pt	Evolutionary and Complex Systems	ECOS	2.12	239597490
+Francisco Baptista Pereira	franciscobaptistapereira@dei.uc.pt	Evolutionary and Complex Systems	ECOS	2.22	239586645
+Joao Correia	joaocorreia@dei.uc.pt	Evolutionary and Complex Systems	ECOS	2.10	239410181
+Leonor Isabel de Albuquerque Melo	leonorisabeldealbuquerquemelo@dei.uc.pt	Evolutionary and Complex Systems	ECOS	2.10	239902639
+Nuno Lourenço	nunolourenço@dei.uc.pt	Evolutionary and Complex Systems	ECOS	2.22	239845133
+Tiago Baptista	tiagobaptista@dei.uc.pt	Evolutionary and Complex Systems	ECOS	2.13	239794850
+Alvaro Rocha	alvarorocha@dei.uc.pt	Information Systems	IS	2.0	239270101
+Antonio Dias de Figueiredo	antoniodiasdefigueiredo@dei.uc.pt	Information Systems	IS	2.9	239460300
+Catarina Ferreira	catarinaferreira@dei.uc.pt	Information Systems	IS	2.13	239654051
+Joao Barata	joaobarata@dei.uc.pt	Information Systems	IS	2.5	239609593
+Jorge C. S. Cardoso	jorgec.s.cardoso@dei.uc.pt	Information Systems	IS	2.17	239590734
+Licinio Roque	licinioroque@dei.uc.pt	Information Systems	IS	2.24	239222203
+André Rodrigues	andrerodrigues@dei.uc.pt	Communications and Telematics	LCT	2.24	239249957
+Bruno Sousa	brunosousa@dei.uc.pt	Communications and Telematics	LCT	2.10	239857675
+Edmundo Monteiro	edmundomonteiro@dei.uc.pt	Communications and Telematics	LCT	2.17	239320181
+Fernando Boavida	fernandoboavida@dei.uc.pt	Communications and Telematics	LCT	2.6	239133247
+Joao P. Vilela	joaop.vilela@dei.uc.pt	Communications and Telematics	LCT	2.24	239669306
+Paulo Simoes	paulosimoes@dei.uc.pt	Communications and Telematics	LCT	2.16	239787525
+Bruno Cabral	brunocabral@dei.uc.pt	Software and Systems Engineering	SSE	2.3	239280243
+Fernando Barros	fernandobarros@dei.uc.pt	Software and Systems Engineering	SSE	2.23	239969270
+Filipe Araujo	filipearaujo@dei.uc.pt	Software and Systems Engineering	SSE	2.4	239648373
+João Paulo de Sousa Ferreira Fernandes 	joãopaulodesousaferreirafernandes@dei.uc.pt	Software and Systems Engineering	SSE	2.12	239372245
+Joao Duraes	joaoduraes@dei.uc.pt	Software and Systems Engineering	SSE	2.14	239858680
+Henrique Madeira	henriquemadeira@dei.uc.pt	Software and Systems Engineering	SSE	2.3	239768956
+Teresa Rita Aguiar Pinheiro	teresaritapinheiro@dei.uc.pt	Software and Systems Engineering	SSE	Multiobjective sequence alignment: Formulation	31/7/2021	Fernando Barros
+Ana Maria Alves Abreu	anamariaabreu@dei.uc.pt	Software and Systems Engineering	SSE	Algorithms and application	16/9/2021	Fernando Barros
+Tomas Tiago Pereira Pinheiro	tomastiagopinheiro@dei.uc.pt	Software and Systems Engineering	SSE	Information Extraction from Crowds in Dynamic Environments	27/3/2021	Fernando Barros
+Rodrigo José Ribeiro Ferreira	rodrigojoséferreira@dei.uc.pt	Software and Systems Engineering	SSE	Learning Under Distribution Mismatch Applied to BioSignal Processing	22/9/2021	Fernando Barros
+Alexandre Sousa Guedes	alexandreguedes@dei.uc.pt	Software and Systems Engineering	SSE	Machine Learning for Adaptive Multi-Core Machines	17/8/2021	Filipe Araujo
+Teresa Pereira Batista	teresabatista@dei.uc.pt	Software and Systems Engineering	SSE	Integration of Different Risk Assessment Tools to Improve the Event Risk Assessment in Cardiovascular Disease Patients Inductive Inference for Large Scale Text Classification	14/10/2021	Fernando Barros
+Joana Tatiana Ferreira Coelho	joanatatianacoelho@dei.uc.pt	Adaptive Computation	AC	Supervisão e Controlo de Sistemas Dinâmicos com Tolerância a Falhas - Contribuição para uma abordagem estruturada e robusta	23/1/2021	Bernardete Ribeiro
+Alexandre Luís Batista Alves	alexandreluísalves@dei.uc.pt	Adaptive Computation	AC	Cover Story : book covers and graphic design in Portugal 1940 - 1970	9/12/2021	Bernardete Ribeiro
+Mafalda Cristina Pinheiro Coelho	mafaldacristinacoelho@dei.uc.pt	Adaptive Computation	AC	Emotion-based Analysis and Classification of Audio Music	25/12/2021	Bernardete Ribeiro
+Maria Inês Pereira Guedes	mariainêsguedes@dei.uc.pt	Adaptive Computation	AC	Emotion-Based Analysis and Classification of Music Lyrics	13/3/2021	Bernardete Ribeiro
+Maria Guedes Batista	mariabatista@dei.uc.pt	Adaptive Computation	AC	RAPPort: A Fact-Based Question Answering System for Portuguese	30/3/2021	Bernardete Ribeiro
+Francisca Camila Pinheiro Silva	franciscacamilasilva@dei.uc.pt	Adaptive Computation	AC	Ambiente Computacional Adaptativo e Colaborativo para a Aprendizagem da Geometria	21/9/2021	Bernardete Ribeiro
+Alexandre Pinheiro Pereira	alexandrepereira@dei.uc.pt	Cognitive and Media Systems	CMS	The Nuts and Bolts of Conceptual Blending: Multi-Domain Concept Creation with Divago	9/6/2021	Antonio Jose Mendes
+Rodrigo Fransico Silva Guedes	rodrigofransicoguedes@dei.uc.pt	Cognitive and Media Systems	CMS	Evolutionary Computation for Classifier Assessment and Improvement	1/11/2021	Antonio Jose Mendes
+Joana Pereira Ribeiro	joanaribeiro@dei.uc.pt	Cognitive and Media Systems	CMS	Self Adaptation in Ant Colony Optimisation	1/11/2021	Antonio Jose Mendes
+Jose Alexandre Coelho Guedes	joséalexandreguedes@dei.uc.pt	Cognitive and Media Systems	CMS	An Exploration of Generalization and Overfitting in Genetic Programming: Standard and Geometric Semantic Approaches	4/2/2021	Antonio Jose Mendes
+Renato Pinheiro Aguiar	renatoaguiar@dei.uc.pt	Cognitive and Media Systems	CMS	Enhancing Grammar-Based Approaches for the Automatic Design of Algorithms	2/9/2021	Antonio Jose Mendes
+Fransico Aguiar Ribeiro	fransicoribeiro@dei.uc.pt	Cognitive and Media Systems	CMS	A computational model inspired by gene regulatory networks	18/2/2021	Antonio Jose Mendes
+Tiago José Pereira Pinheiro	tiagojosépinheiro@dei.uc.pt	Evolutionary and Complex Systems	ECOS	A GESTÃO DAS COMUNIDADES DE APRENDIZAGEM ENQUANTO GERADORAS DE CONTEXTOS DE APRENDIZAGEM (UM ESTUDO DE CASO)	5/2/2021	Ernesto Costa
+Luis Alves Coelho	luíscoelho@dei.uc.pt	Evolutionary and Complex Systems	ECOS	Perceptions of Quality in e-Learning: a Case Study	5/8/2021	Ernesto Costa
+Rita Coelho Aguiar	ritaaguiar@dei.uc.pt	Evolutionary and Complex Systems	ECOS	Estratégias e Dinâmicas em Ambientes de Aprendizagem Mista	4/12/2021	Ernesto Costa
+Tomas João Costa Alves	tomasjoãoalves@dei.uc.pt	Evolutionary and Complex Systems	ECOS	Sound design guidance as a contribution towards the empowerment of indie game developers	25/2/2021	Ernesto Costa
+Teresa Pereira Almeida	teresacosta@dei.uc.pt	Evolutionary and Complex Systems	ECOS	Information systems and quality management systems: researching lifecycle synergies	5/6/2021	Joao Correia
+Joana Teresa Costa Guedes	joanateresaguedes@dei.uc.pt	Evolutionary and Complex Systems	ECOS	Integração do Som Não Falado nas Representações Informatizadas dos Sistemas Ambientais	26/5/2021	Joao Correia
+Mariana Costa Sousa	marianasousa@dei.uc.pt	Information Systems	IS	Performance Measurement in Wireless Sensor Networks	13/12/2021	Antonio Dias de Figueiredo
+Teresa Alves Costa	teresacosta@dei.uc.pt	Information Systems	IS	End-to-end security solutions for Internet-integrated Wireless Sensor Networks	15/6/2021	Antonio Dias de Figueiredo
+Tiago Tomas Pinheiro Costa	tiagotomascosta@dei.uc.pt	Information Systems	IS	Trust and Reputation for Critical Infrastructure Protection	23/1/2021	Antonio Dias de Figueiredo
+Joana Ana Sousa Batista	joanaanabatista@dei.uc.pt	Information Systems	IS	Multihoming Aware Optimization Mechanism	29/7/2021	Antonio Dias de Figueiredo
+Joana Guedes Batista	joanabatista@dei.uc.pt	Information Systems	IS	Cooperative Routing Management in Wireless Mesh Networks	24/2/2021	Antonio Dias de Figueiredo
+Santiago Renato Costa Guedes	santiagorenatoguedes@dei.uc.pt	Information Systems	IS	Multi-user Session Control in Next Generation Networks	14/12/2021	Antonio Dias de Figueiredo
+Tiago Ribeiro Pinheiro	tiagopinheiro@dei.uc.pt	Communications and Telematics	LCT	Automatic Optimization of Granularity Control Algorithms for Parallel Programs	26/2/2021	Paulo Simoes
+Luis Fransico Costa Guedes	luísfransicoguedes@dei.uc.pt	Communications and Telematics	LCT	Reliable Distributed Communication: Design Solutions and Protocols	5/6/2021	Paulo Simoes
+Santiago Renato Abreu Batista	santiagorenatobatista@dei.uc.pt	Communications and Telematics	LCT	Abordagens para Cubo de Dados Massivos com Alta Cardinalidade Baseadas em Memória Principal e Memória Externa	1/2/2021	Paulo Simoes
+Jose Guedes Alves	josealves@dei.uc.pt	Communications and Telematics	LCT	Fault Injection for Online Failure Prediction Assessment and Improvement	2/9/2021	Paulo Simoes
+Maria Ribeiro Aguiar	mariaaguiar@dei.uc.pt	Communications and Telematics	LCT	Software Vulnerability Detection in Service-Based Infrastructures	16/10/2021	Paulo Simoes
